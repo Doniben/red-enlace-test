@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/red-enlace-test/static/css/main.c59cc657.css",
+    "main.js": "/red-enlace-test/static/js/main.d761eb44.js",
+    "index.html": "/red-enlace-test/index.html",
+    "main.c59cc657.css.map": "/red-enlace-test/static/css/main.c59cc657.css.map",
+    "main.d761eb44.js.map": "/red-enlace-test/static/js/main.d761eb44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c59cc657.css",
+    "static/js/main.d761eb44.js"
+  ]
+}
