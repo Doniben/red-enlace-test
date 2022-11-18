@@ -1,5 +1,9 @@
 # Red enlace Technical test
 
+
+<img width="1443" alt="Screen Shot 2022-11-17 at 8 04 14 PM" src="https://user-images.githubusercontent.com/51678086/202599886-e0fadd5c-1e4e-4a0d-8a45-be037fa95f8e.png">
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) 
 
 ## Available Scripts
